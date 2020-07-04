@@ -1,4 +1,4 @@
-# UnityBehaviorTreeImplementation
+# Unity Behavior Tree Implementation
 
 An example of how to implement behavior trees within Unity.
 
